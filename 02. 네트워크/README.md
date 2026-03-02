@@ -17,7 +17,29 @@
 </details>
 
 <details> <summary>2. 네트워크의 분류</summary> </br>
+네트워크는 얼마나 넓은지(규모)와 어떻게 생겼는지(형태)에 따라 다음과 같이 분류된다. </br>
+
+</br>
+
+❶ 크기에 따른 분류 </br>
+
+- LAN(Local Area Network, 근거리 통신망) </br>
+: 네트워크 매체를 이용하여 집, 사무실, 학교 등의 건물과 같은 가까운 지역을 한데 묶는 컴퓨터 네트워크 </br>
+  - 장점: 데이터 전송 속도가 매우 빠르고, 에러 발생률이 낮다. </br>
+
+- WAN (Wide Area Network, 광역 통신망) </br>
+: 드넓은 지리적 거리/장소를 넘나드는 통신 네트워크 또는 컴퓨터 네트워크 </br>
+: WAN은 여러 개의 LAN을 통신할 수 있도록 연결시켜 놓은 것. </br>
+
+<img width="900" height="457" alt="image" src="https://github.com/user-attachments/assets/d34b5221-8e8f-4585-802a-abf6c300e714" />
 
 
+
+
+</details>
+
+
+이미지 링크
+https://www.hanbit.co.kr/channel/view.html?cmscode=CMS9544942055
 
 
