@@ -32,6 +32,7 @@
 - WAN (Wide Area Network, 광역 통신망) </br>
 : 드넓은 지리적 거리/장소를 넘나드는 통신 네트워크 또는 컴퓨터 네트워크 </br>
 : WAN은 여러 개의 LAN을 통신할 수 있도록 연결시켜 놓은 것. </br>
+  - 예시 : 네이버를 회사 또는 집에서 쓸 수 있음.
 
 <img width="900" height="457" alt="image" src="https://github.com/user-attachments/assets/d34b5221-8e8f-4585-802a-abf6c300e714" />
 
