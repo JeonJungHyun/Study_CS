@@ -217,13 +217,13 @@ TCP는 양방향 통신이기 때문에 각각 종료 신호가 필요하다. </
  
 </details>
 
+---
 
+🔗 참고  
+https://www.youtube.com/watch?v=y9nlT52SAcg </br>
+https://www.hanbit.co.kr/channel/view.html?cmscode=CMS9544942055 </br>
 
-
-
-
-이미지 링크 </br>
+🎞️ 이미지 출처 </br>
 https://www.hanbit.co.kr/channel/view.html?cmscode=CMS9544942055 </br>
 https://taejin0527.github.io/[object%20Object]/Language-Python-20200120-PY-Broadcasting/ </br>
-
 
